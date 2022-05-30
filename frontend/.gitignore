@@ -1,0 +1,4 @@
+.firebaserc
+.firebase/
+node_modules/
+public/my-app.js
